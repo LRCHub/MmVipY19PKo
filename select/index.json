@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "brilliant starlight",
+  "base_artist": "アイカツアカデミー！配信部",
+  "createdAt": "2025-12-12T18:47:05.550082Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "brilliant starlight",
+      "artist": "アイカツアカデミー!配信部",
+      "has_synced": false,
+      "path": "select/pl_01_brilliant_starlight_アイカツアカデミー!配信部.txt"
+    }
+  ]
+}
